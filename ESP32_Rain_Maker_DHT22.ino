@@ -17,7 +17,7 @@
 
 // BLE Credentils
 const char *service_name = "PROV_TEMP";
-const char *pop = "259731gui";
+const char *pop = "gui1234";
 
 // GPIO
 static uint8_t gpio_reset = 0;
